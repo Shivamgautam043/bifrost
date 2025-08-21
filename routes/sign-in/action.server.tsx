@@ -1,4 +1,4 @@
-import { ActionFunction } from "@remix-run/node";
+import { ActionFunction } from "react-router";
 
 export const action: ActionFunction = async () => {
     return null;

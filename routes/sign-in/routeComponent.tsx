@@ -1,4 +1,5 @@
-import { useLoaderData } from "@remix-run/react";
+
+import { useLoaderData } from "react-router";
 import { LoaderData } from "./loader.server";
 
 export function RouteComponent() {
